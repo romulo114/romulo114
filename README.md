@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Romulo Benjamim. I Love ❤️ building elegant software and currently working as fullstack engineer. </p>
+<p align="center"> I am Romulo Benjamim. I Love ❤️ building elegant software and currently working as a fullstack engineer. </p>
 
 
 ## :sassy_man:  About me
