@@ -3,17 +3,15 @@
 
 
 ## :sassy_man:  About me
-:heavy_check_mark: I'm a Javascript / PHP / Python expert.
+:heavy_check_mark: I'm a React / Next developer with 8 years of product development experience.
 
-:heavy_check_mark: I'm a seasoned React.js engineer with 7 years of product development experience
-
-:heavy_check_mark: I'm proficient in backend development using Node.js/Express.js, PHP/Laravel, and Django/FastAPI/Flask
+:heavy_check_mark: I'm proficient in backend development using Node.js/Express.js, PHP/Laravel.
 
 :heavy_check_mark: I'm a dedicated team player
 
-:heavy_check_mark: I love challenges and like to find out the best solution.
+:heavy_check_mark: I love challenges and like to find out the best solutions.
 
-:heavy_check_mark: I'm a software architect with rich software design experience
+:heavy_check_mark: I am versed in Tailwind + TypeScript + React + Next + Headless CMS + Supabase development.
 
 
 ## 🛠️ My Skills
