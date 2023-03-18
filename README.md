@@ -5,13 +5,11 @@
 ## :sassy_man:  About me
 :heavy_check_mark: I'm a React / Next developer with 8 years of product development experience.
 
-:heavy_check_mark: I'm proficient in backend development using Node.js/Express.js, PHP/Laravel.
-
-:heavy_check_mark: I'm a dedicated team player
+:heavy_check_mark: Especially, I am versed in Tailwind + TypeScript + React + Next + Headless CMS + Supabase development.
 
 :heavy_check_mark: I love challenges and like to find out the best solutions.
 
-:heavy_check_mark: I am versed in Tailwind + TypeScript + React + Next + Headless CMS + Supabase development.
+
 
 
 ## 🛠️ My Skills
