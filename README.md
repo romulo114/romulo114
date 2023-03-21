@@ -1,4 +1,3 @@
-<h1 align="center"> Hi there 👋 </h1>
 <p align="center"> I am Romulo Benjamim. I ❤️ building elegant software and currently working as a frontend engineer. </p>
 
 
