@@ -4,4 +4,4 @@
 
 :heavy_check_mark: Especially, I am versed in Tailwind + TypeScript + React + Next + Headless CMS + Supabase/Firebase development.
 
-:heavy_check_mark: I love challenges and like to find out the best solutions.
+:heavy_check_mark: I love challenges and finding out the best solutions.
